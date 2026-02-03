@@ -1,0 +1,2 @@
+print "Edge case: What happens in Lox when you divide by zero?";
+print 1 / 0;

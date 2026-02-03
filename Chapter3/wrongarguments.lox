@@ -1,0 +1,7 @@
+print("Edge case: What happens if you try to add 'apples' and 'oranges' strings in a function?");
+
+fun add(x,y){
+	print x + y;
+}
+
+add("apples", "oranges");
